@@ -17,8 +17,27 @@ p, a {
 
 /* Customising body */
 body{
+  margin: 0px;
   background-color: black;
-  text-align: center;
+  }
+/*Video*/
+.EX video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Phone imgae*/
+.EN img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*Camp side*/
+.TG img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Customising Video */
